@@ -10,14 +10,13 @@ header-includes:
     \centering
     \begin{figure}[h]
         \centering
-        \includegraphics[width=0.5\textwidth]{logo.pdf} 
+        \includegraphics[width=0.5\textwidth]{image.png} 
     \end{figure}
     \vspace*{2cm}
     {\Huge\bfseries Puppy Raffle Initial Audit Report\par}
     \vspace{1cm}
     {\Large Version 0.1\par}
     \vspace{2cm}
-    {\Large\itshape Cyfrin.io\par}
     \vfill
     {\large \today\par}
 \end{titlepage}
@@ -29,7 +28,7 @@ header-includes:
 Prepared by: Vinesh Paralkar
 Lead Auditors: 
 
-- [https://github.com/Learnedprawn](enter your URL here)
+- [https://github.com/Learnedprawn]
 
 Assisting Auditors:
 
